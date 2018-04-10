@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Mohamed-Allam/Express-Demo/issues"
   },
-  "homepage": "https://github.com/Mohamed-Allam/Express-Demo#readme"
+  "homepage": "https://github.com/Mohamed-Allam/Express-Demo#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
