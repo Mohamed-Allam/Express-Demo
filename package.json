@@ -1,0 +1,19 @@
+{
+  "name": "express-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohamed-Allam/Express-Demo.git"
+  },
+  "author": "Mohamed Allam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohamed-Allam/Express-Demo/issues"
+  },
+  "homepage": "https://github.com/Mohamed-Allam/Express-Demo#readme"
+}
